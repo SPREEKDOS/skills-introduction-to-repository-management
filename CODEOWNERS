@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @SPREEKDOS
+/src/backend/database.py      @SPREEKDOS
+/src/backend/routers/auth.py  @SPREEKDOS
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @SPREEKDOS
